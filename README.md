@@ -1,6 +1,6 @@
 # ZipBreaker
 
-## Zip file Password Extracting Script
+## Zip file Password Cracking Script
 
 Expected outcome: Discover the encrypted password of Zip file and it's extracted content
 
